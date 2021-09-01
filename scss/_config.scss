@@ -1,6 +1,6 @@
 $primary-color: dodgerblue;
 $dark-color: darkorchid;
-$light-color: azure;
+$light-color: whitesmoke;
 $danger-color: crimson;
 $success-color: mediumspringgreen;
 
@@ -37,7 +37,7 @@ $spaceamounts: (1, 2, 3, 4, 5);
 
   // All around Padding
   .p-#{$space} {
-    padding: #{$space}rem 0;
+    padding: #{$space}rem;
   }
 
   // Vertical Padding
